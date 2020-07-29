@@ -15,7 +15,7 @@ Undoubtedly, the restaurant industry has been highly affected by the COVID-19 pa
 This repository includes a jupyter notebook with the code and analyses and the .csv files of the data sets used in the project. 
 
 ## Objectives and methods
-The objective of the project is to provide restaurant owners and stakeholders with a clear and detailed view of the state of the industry and its recovery since the outbreak of the COVID-19 pandemic in the U.S. We used descriptive analytics and data visualization techniques to analyze how the behavior of the virus and the policies implemented across different states have affected the industry's recovery. Throughout the process of data exploration and visualization we experimented with different kinds of plots and techniques to find the that conveyed compelling and insightful answers to our questions; for this reason we decided to work with a limited number of states.
+The objective of the project is to provide restaurant owners and stakeholders with a clear and detailed view of the state of the industry and its recovery since the outbreak of the COVID-19 pandemic in the U.S. We used descriptive analytics and data visualization techniques to analyze how the behavior of the virus and the policies implemented across different states have affected the industry's recovery. As part of the process of data exploration and visualization we experimented with different kinds of plots and techniques to find plots and metrics that conveyed compelling and insightful answers to our questions; for this reason we decided to work with a limited number of states.
 
 ## Licensing, Authors and Acknowledgements
 This project was done as part of the Data Science Udacity Nanodegree program. 
