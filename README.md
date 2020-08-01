@@ -1,6 +1,8 @@
 # The Restaurant Industry in the United States Amidst the COVID-19 Pandemic
 The project examines and analyses the impact of the COVID-19 pandemic on the restaurant industry in the United States. We used two data sets from the OpenTable API showing a year-over-year comparison of the number of seated diners and an additional data set from The New York Times with the number of daily COVID-19 cases by state. 
 
+A Medium story was written to share the results of the project. Access the Medium story [**here**](https://medium.com/@manurod19/will-the-restaurant-industry-survive-the-pandemic-133404883f1c)
+
 ## Installation 
 The project did not require any extra libraries and was written using Python 3.7.6.
 
